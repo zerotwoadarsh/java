@@ -149,6 +149,7 @@ public class linkedlist {
         list.insertLast(90);
         list.insertLast(34);
         list.print();
+        list.insertLast(34);
 
 
         list.deleteAtIndex(4);
