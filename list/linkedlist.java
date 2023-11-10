@@ -148,7 +148,7 @@ public class linkedlist {
         list.insertLast(12);
         list.insertLast(90);
         list.insertLast(34);
-                list.print();
+        list.print();
 
 
         list.deleteAtIndex(4);
@@ -163,6 +163,7 @@ public class linkedlist {
         // list.print();
         
         // System.out.println(list.deleteLast());
+
         list.print();
     }
 }
